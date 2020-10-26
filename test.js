@@ -1,5 +1,5 @@
 const assert = require('assert');
-const fibonacci = require('./fabonacci2');
+const fibonacci = require('./fabonacci');
 
 describe ('fibonacci', ()=>{
     
