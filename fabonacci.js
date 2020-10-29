@@ -7,6 +7,7 @@ Trevor Kakuba
   Fibonacci numbers are numbers obtained by adding the two previous numbers in the sequence to obtain the next higher number.
   Example: 1+1= 2, 2+3= 5, 5+8= 13...
   The formula is: Fn = Fn-1 + Fn-2
+  hope it works
 */
 
 module.exports = fibonacci;
