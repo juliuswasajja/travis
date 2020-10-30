@@ -1,3 +1,4 @@
 # travisug
 How to use Travis
-https://travis-ci.org/juliuswasajja/travisug.svg?branch=master
+
+[![Build Status](https://travis-ci.org/juliuswasajja/travisug.svg?branch=master)](https://travis-ci.org/juliuswasajja/travisug)
