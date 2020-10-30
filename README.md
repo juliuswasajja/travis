@@ -10,3 +10,4 @@ How to use Travis
 
 [![Test Coverage](https://api.codeclimate.com/v1/badges/b8775537899e7db885a8/test_coverage)](https://codeclimate.com/github/juliuswasajja/travisug/test_coverage)
 
+https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fwasajja_j
